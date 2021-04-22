@@ -1,2 +1,2 @@
 # Twitter-bot
-This is a twitter bot built to retweet specific tweet with hashtag "#100DaysOfCode" automatically using Twitter API and Python's Tweepy Module.
+This is a twitter bot built to retweet specific tweets automatically that contains targeted hashtag (i.e. "#100DaysOfCode") using Twitter API and Python's Tweepy Module. Main purposes of building this bot was to inspire new coders who take #100DaysOfCode challenge.
